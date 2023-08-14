@@ -2,25 +2,6 @@
 
  <HEAD>
 
-  <TITLE> one piece </TITLE>    
-
-  <style>
-
-
-  html, body {
-
-  height: 100%;
-
-  padding: 0;
-
-  margin: 0px 250px 0px 250px;
-
-  background: #000000;
-
-}
-
-  </style>
-
   </script>
 <center>  <a href="https://animevietsub.moe/phim/one-piece-dao-hai-tac-a1/tap-001-35.html" target="_blank"><img  src="https://logos-world.net/wp-content/uploads/2021/09/One-Piece-Logo-1999.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 3840px; height: 105px; margin: 0px; width: 207px;" alt="One Piece Logo, symbol, meaning, history, PNG, brand" jsname="kn3ccd" aria-hidden="false"></a>
 <marquee  style="color:rgb(255, 255, 255); font-size: 28px " scrollamount="10" >  Monkey D. Luffy     </marquee>
